@@ -30,8 +30,6 @@ TrapSnap은 여행 그룹을 만들고, 그룹 내에서 위치 정보와 함께
 👉 [API 문서](https://tripsnap.github.io/server/)
 
 ## 레포지토리
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TripSnap&repo=server)](https://github.com/TripSnap/server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TripSnap&repo=client)](https://github.com/TripSnap/client)
 
 ## 목차
 
