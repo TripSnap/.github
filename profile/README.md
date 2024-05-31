@@ -1,5 +1,14 @@
 # ✈ 여행의 순간을 기록하는 서비스 TripSnap (개발중)
 
+## 목차
+
+[1. 프로젝트 소개](#프로젝트-소개)  
+[2. 주요 기능](#주요-기능)  
+[3. 배포 주소](#배포-주소)  
+[4. 개발 스택](#개발-스택)  
+[5. 구현 내용](#구현-내용)  
+[6. 기타 수난기 및 정리 내용](#기타-수난기-및-정리-내용)
+
 ## 프로젝트 소개
 
 TrapSnap은 여행 그룹을 만들고, 그룹 내에서 위치 정보와 함께 사진을 등록하고 공유하는 서비스 입니다.
@@ -14,6 +23,10 @@ TrapSnap은 여행 그룹을 만들고, 그룹 내에서 위치 정보와 함께
 
 - 그룹 내에서는 사진을 촬영한 장소와 함께 사진을 업로드 할 수 있습니다.
 - 업로드 한 사진은 그룹 내부에서 누구나 자유롭게 조회가 가능합니다.
+
+## 배포 주소
+
+👉 [API 문서](https://tripsnap.github.io/server/)
 
 ## 개발 스택
 
@@ -83,6 +96,5 @@ TrapSnap은 여행 그룹을 만들고, 그룹 내에서 위치 정보와 함께
 
 ## 기타 수난기 및 정리 내용
 
-[[Spring] Filter에 OPTIONS 요청이 들어올 때](https://wary-billboard-150.notion.site/Spring-Filter-OPTIONS-5ba44e20618442e5a0ffc971992fbff0?pvs=4)
-
+[[Spring] Filter에 OPTIONS 요청이 들어올 때](https://wary-billboard-150.notion.site/Spring-Filter-OPTIONS-5ba44e20618442e5a0ffc971992fbff0?pvs=4)  
 [[TripSnap] swagger api github pages에 배포하기](https://wary-billboard-150.notion.site/TripSnap-swagger-api-github-pages-3f84692758644cdb87af4e14616630a4?pvs=4)
