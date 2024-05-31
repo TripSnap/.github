@@ -43,8 +43,8 @@ TrapSnap은 여행 그룹을 만들고, 그룹 내에서 위치 정보와 함께
 
 ### Others
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- `Git`
+- `Github`
 
 ## 구현 내용
 
