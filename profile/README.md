@@ -31,35 +31,8 @@ TrapSnap은 여행 그룹을 만들고, 그룹 내에서 위치 정보와 함께
 
 ## 레포지토리
 
-## 목차
-
-[1. 프로젝트 소개](#프로젝트-소개)  
-[2. 주요 기능](#주요-기능)  
-[3. 프로젝트 배포](#프로젝트-배포)  
-[4. 개발 스택](#개발-스택)  
-[5. 구현 내용](#구현-내용)  
-[6. 기타 수난기 및 정리 내용](#기타-수난기-및-정리-내용)
-
-## 프로젝트 소개
-
-TrapSnap은 여행 그룹을 만들고, 그룹 내에서 위치 정보와 함께 사진을 등록하고 공유하는 서비스 입니다.
-
-## 주요 기능
-
-### 👉 친구에게만 그룹 신청
-
-- 무분별한 그룹 신청을 막기 위해 그룹을 만드는 유저는 친구로 등록된 유저만 초대 할 수 있습니다.
-
-### 👉 위치와 함께 사진을 업로드
-
-- 그룹 내에서는 사진을 촬영한 장소와 함께 사진을 업로드 할 수 있습니다.
-- 업로드 한 사진은 그룹 내부에서 누구나 자유롭게 조회가 가능합니다.
-
-## 프로젝트 배포
-
-👉 [API 문서](https://tripsnap.github.io/server/)
-
-## 레포지토리
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TripSnap&repo=server)](https://github.com/TripSnap/server)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TripSnap&repo=client)](https://github.com/TripSnap/client)
 
 ## 개발 스택
 
